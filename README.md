@@ -1,5 +1,6 @@
 # button-animation
 This is a quick way to add an animation for your button
+Demo: https://negativ-64.github.io/button-animation/
 
 DEPENDENCIES:
 - jQuery library
